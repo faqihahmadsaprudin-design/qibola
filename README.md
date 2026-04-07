@@ -1,3 +1,16 @@
+
+Fitur Utama:
+
+~Integrasi API Sepakbola (https://www.google.com/search?q=apiv2.apifootball.com).
+
+~Tampilan klasemen liga top Eropa (La Liga, EPL, Serie A, Bundesliga).
+
+~Fitur highlight tim kebanggaan (Real Madrid).
+
+~ Manajemen gambar menggunakan Glide dengan sistem fallback.
+
+Tech Stack: Java, Android SDK, Retrofit2, Glide, GSON, RecyclerView.
+
 ### 📸 Screenshots
 
 <img src="https://github.com/user-attachments/assets/865bf6e7-4a30-454c-a3d9-c9f9ed0e9ed5" width="30%" alt="Splash Screen"/>
